@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Srujana0629/Python_Codes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Srujana0629/Python_Codes/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srujana0629/Python_Codes/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Srujana0629/Python_Codes/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Srujana0629/Python_Codes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Srujana0629/Python_Codes/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Srujana0629/Python_Codes/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Srujana0629/Python_Codes/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
