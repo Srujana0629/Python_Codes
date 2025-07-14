@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Srujana0629/Python_Codes/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srujana0629/Python_Codes/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -25,6 +26,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Srujana0629/Python_Codes/tree/master/0036-valid-sudoku) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Srujana0629/Python_Codes/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
