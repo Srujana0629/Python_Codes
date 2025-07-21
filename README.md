@@ -47,6 +47,22 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srujana0629/Python_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Srujana0629/Python_Codes/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Srujana0629/Python_Codes/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Srujana0629/Python_Codes/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Srujana0629/Python_Codes/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
