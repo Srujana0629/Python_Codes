@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0217-contains-duplicate](https://github.com/Srujana0629/Python_Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srujana0629/Python_Codes/tree/master/0242-valid-anagram) |
+| [0778-reorganize-string](https://github.com/Srujana0629/Python_Codes/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srujana0629/Python_Codes/tree/master/1019-squares-of-a-sorted-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujana0629/Python_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Srujana0629/Python_Codes/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Srujana0629/Python_Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srujana0629/Python_Codes/tree/master/0242-valid-anagram) |
+| [0778-reorganize-string](https://github.com/Srujana0629/Python_Codes/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujana0629/Python_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srujana0629/Python_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Srujana0629/Python_Codes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srujana0629/Python_Codes/tree/master/0242-valid-anagram) |
+| [0778-reorganize-string](https://github.com/Srujana0629/Python_Codes/tree/master/0778-reorganize-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,15 +76,21 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Srujana0629/Python_Codes/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujana0629/Python_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Srujana0629/Python_Codes/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujana0629/Python_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujana0629/Python_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Srujana0629/Python_Codes/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
