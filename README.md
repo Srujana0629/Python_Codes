@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Srujana0629/Python_Codes/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Srujana0629/Python_Codes/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srujana0629/Python_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Srujana0629/Python_Codes/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Srujana0629/Python_Codes/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Srujana0629/Python_Codes/tree/master/0239-sliding-window-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srujana0629/Python_Codes/tree/master/1019-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Srujana0629/Python_Codes/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/Srujana0629/Python_Codes/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Srujana0629/Python_Codes/tree/master/1036-rotting-oranges) |
 ## String
 |  |
@@ -69,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Srujana0629/Python_Codes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Srujana0629/Python_Codes/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Srujana0629/Python_Codes/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Srujana0629/Python_Codes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Srujana0629/Python_Codes/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Srujana0629/Python_Codes/tree/master/0226-invert-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Srujana0629/Python_Codes/tree/master/1036-rotting-oranges) |
 ## Binary Tree
@@ -116,6 +120,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srujana0629/Python_Codes/tree/master/0042-trapping-rain-water) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Srujana0629/Python_Codes/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
