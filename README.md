@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Srujana0629/Python_Codes/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Srujana0629/Python_Codes/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Srujana0629/Python_Codes/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Srujana0629/Python_Codes/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srujana0629/Python_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Srujana0629/Python_Codes/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Srujana0629/Python_Codes/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Srujana0629/Python_Codes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Srujana0629/Python_Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srujana0629/Python_Codes/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/Srujana0629/Python_Codes/tree/master/0778-reorganize-string) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srujana0629/Python_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Srujana0629/Python_Codes/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Srujana0629/Python_Codes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Srujana0629/Python_Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srujana0629/Python_Codes/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/Srujana0629/Python_Codes/tree/master/0778-reorganize-string) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srujana0629/Python_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Srujana0629/Python_Codes/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Srujana0629/Python_Codes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srujana0629/Python_Codes/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/Srujana0629/Python_Codes/tree/master/0778-reorganize-string) |
